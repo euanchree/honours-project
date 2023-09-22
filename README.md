@@ -1,15 +1,9 @@
 ## Pneumonia Detection System
 Euan Chree
-1912490
 
----
+Honours Project code repository of the pneumonia detection system.
 
-CM4105 Honours Project code repository.
-
-Demo of application interface:
-![Demo](https://user-images.githubusercontent.com/56359608/235722470-434f0a70-dd43-4d0b-a9b0-09f8e6df80b3.mov)
-
----
+Investigation and creation of model is detailed inside the jupyter notebook, the systems user interface was implemented in python using [Streamlit](https://streamlit.io/).
 
 Implementation notebook can be viewed with:
 
